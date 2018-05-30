@@ -94,6 +94,7 @@ body {
     font-size: 50px;
     line-height: 50px;
     margin-left: 40px;
+    font-family: "Source Han Sans CN","Microsoft YaHei",Arial;
 }
 
 .contain .right {
@@ -105,7 +106,7 @@ body {
     position: relative;
     display: inline-block;
     text-align: center;
-    width: 225px;
+    width: 220px;
     height: 54px;
     font-size: 26px;
     line-height: 54px;
@@ -398,6 +399,7 @@ p {
 .title1 {
     font-size: 40px;
     margin-bottom: 35px;
+    font-family: "Source Han Sans CN","Microsoft YaHei",Arial;
 }
 
 .titleEng {
@@ -419,8 +421,8 @@ p {
     font-size: 22px;
     width: 462px;
     line-height: 40px;
-    font-weight: 300;
-    font-family: Arial;
+    font-weight: 100;
+    font-family: "Source Han Sans CN","Microsoft YaHei",Arial;
 }
 
 @media screen and (max-width: 680px) {
